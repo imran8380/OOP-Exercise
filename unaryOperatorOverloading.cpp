@@ -81,7 +81,7 @@ class Student{
 };
 
 int main(){
-    Student s1("Monira", 20);
+    Student s1("Imran", 20);
 
     // Unary operator overloading with function
     cout << "Unary operator overloading with function" << endl;
@@ -112,4 +112,5 @@ int main(){
 
     return 0;
 }
+
 
