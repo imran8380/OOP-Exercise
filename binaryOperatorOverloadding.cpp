@@ -61,8 +61,8 @@ class Student{
 };
 
 int main(){
-    Student s1("Monira", 20);
-    Student s2("Akhi", 21);
+    Student s1("Imran", 20);
+    Student s2("Tamim", 21);
 
     // Binary operator overloading with function
     cout << "Binary operator overloading with function" << endl;
@@ -84,3 +84,4 @@ int main(){
 
     return 0;
 }
+
